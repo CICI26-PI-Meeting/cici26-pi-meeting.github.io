@@ -1,0 +1,81 @@
+title: NSF CICI PI Meeting
+description: >-
+  The CICI PI Meeting brings together Principal Investigators funded through the
+  National Science Foundation's Cybersecurity Innovation for Cyberinfrastructure
+  (CICI) program to share research progress, exchange best practices, and
+  strengthen collaboration.
+preposition: "at"
+baseurl: ""
+url: ""
+
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v4.0.1"
+
+conference:
+  lang: en
+  tz: "-07:00"
+  navigation:
+    links:
+      - name: Home
+        relative_url: /
+      - name: Program
+        relative_url: /program/
+      - name: Events
+        relative_url: /talks/
+      - name: Speakers
+        relative_url: /speakers/
+      - name: Location
+        relative_url: /location/
+      - name: Registration
+        relative_url: /registration/
+  talks:
+    tracks:
+      - name: Logistics
+        color: secondary
+      - name: Plenary
+        color: primary
+      - name: Poster Session
+        color: info
+      - name: Breakout
+        color: success
+      - name: Panel
+        color: warning
+  meta:
+    schema_org:
+      disable: false
+      event_status: scheduled
+      event_attendance_mode: offline
+      has_participation_offer:
+        url: /registration/
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
