@@ -1,7 +1,7 @@
 ---
 name: Keynote Address
-speakers:
- - TBA
+# speakers:
+#  - TBA
 track: Plenary
 ---
 
