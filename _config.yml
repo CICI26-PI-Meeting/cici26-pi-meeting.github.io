@@ -38,7 +38,7 @@ conference:
       - name: Logistics
         color: secondary
       - name: Plenary
-        color: primary
+        color: danger
       - name: Poster Session
         color: info
       - name: Breakout
