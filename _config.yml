@@ -8,11 +8,17 @@ preposition: "at"
 baseurl: ""
 url: ""
 
-remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v4.0.1"
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.7.2"
 
 conference:
   lang: en
   tz: "-07:00"
+  program:
+    url: /program/
+    time_steps: 30
+    show_alltimes: true
+  location:
+    url: /location/
   navigation:
     links:
       - name: Home
