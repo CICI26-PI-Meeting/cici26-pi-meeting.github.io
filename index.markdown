@@ -27,4 +27,4 @@ All CICI PIs are expected to present a poster describing their project. Particip
 - NSF Program Link: [Cybersecurity Innovation for Cyberinfrastructure (CICI)](https://www.nsf.gov/funding/opportunities/cici-cybersecurity-innovation-cyberinfrastructure)
 - Venue: UCLA Meyer and Renee Luskin Conference Center
 - Registration: [Registration information](/registration/)
-  
+- Contact: ytian@ucla.edu
