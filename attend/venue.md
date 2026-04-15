@@ -11,5 +11,5 @@ postal_address:
   country: US
 ---
 
-The CICI PI Meeting will be hosted at the UCLA Meyer and Renee Luskin Conference Center.
+The CICI PI Meeting will be hosted at the UCLA Meyer and Renee Luskin Conference Center. More details will be available closer to the start of the event.
 
