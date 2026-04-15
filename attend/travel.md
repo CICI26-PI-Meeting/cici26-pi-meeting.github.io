@@ -21,15 +21,15 @@ The Luskin Conference Center, where the meeting will be held, offers accommodati
 
 ## By Car
 
-If staying at Luskin Conference Center hotel, parking is available in the basement of the Luskin Conference center.
+If staying at Luskin Conference Center hotel, parking is available in the basement of the Luskin Conference Center.
 
-Parking is available 24/7 in the nearby Parking Structure 8 garage on the roof for $17 per day (overnight parking is available at this garage). You must enter the parking garage through the [Structure 8 Driveway from Westwood Plaza (Google Maps link)](https://maps.app.goo.gl/tv1ZvT5tA9ZgM2gq9), park in a designated visitor parking spot, and pay using the pay station or the ParkMobile app.
+Parking is available 24/7 in the nearby Parking Structure 8 garage on the roof for $17 per day (overnight parking is available here). You must enter the parking garage through the [Structure 8 Driveway from Westwood Plaza (Google Maps link)](https://maps.app.goo.gl/tv1ZvT5tA9ZgM2gq9), park in a designated visitor parking spot, and pay using the pay station or the ParkMobile app.
 
-Should Structure 8 fill up, additional day visitor parking is available at Parking Structures 4 & 2. Please note that there is no visitor parking during business hours in Parking Structures 7, 9, or DD.
+Should Structure 8 fill up, additional day visitor parking is available at Parking Structures 4 & 2. Please note that there is no visitor parking during business hours in Parking Structures 7, 9, or DD. [Map of parking lot locations](https://ucla.app.box.com/s/n49sussjcbo6e9s1ljs9j9icc053mqaq)
 
 ## Rideshare (Uber/Lyft)
 
-Rideshare from LAX to UCLA typically costs **$30–50** and takes **30–60 minutes** depending on traffic. Rush hour traffic (roughly 7–10 AM and 3–7 PM on weekdays) can significantly increase travel time. The UCLA campus rideshare drop-off point is near the Luskin Conference Center.
+Rideshare from LAX to UCLA typically costs **$40-80** and takes **30–60 minutes** depending on traffic. For short distance travel, [Metro Micro](https://www.metro.net/micro/) offers short-distance van rideshare for $2.50 per ride around the UCLA and neighboring areas 8am-9pm.
 
 ## By Bus
 
