@@ -50,6 +50,8 @@ conference:
         relative_url: /location/
       - name: Registration
         relative_url: /registration/
+      - name: Organizers
+        relative_url: /organizers/
   talks:
     tracks:
       - name: Logistics
