@@ -11,6 +11,23 @@ url: ""
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.7.2"
 
 conference:
+  # Information modals (shown as modal dialogs)
+  # info_modals:
+  #   - title: Important Announcement
+  #     main_only: true
+  #     text: This is an information modal that appears as a dialog.
+
+  # Information bars (shown as alerts at the top of the page)
+  info_bars:
+    - title: Registration Open!
+      color: primary
+      text: |
+        <ins>[Registration (due April 24th) and poster submission (due May 1st) is now open!](/registration)</ins>
+
+      # - title: Important Notice
+      #   color: warning
+      #   text: |
+      #     This is a non-dismissible information banner that will always be visible.
   lang: en
   tz: "-07:00"
   program:
