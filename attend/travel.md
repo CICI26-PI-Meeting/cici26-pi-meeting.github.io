@@ -23,7 +23,9 @@ The Luskin Conference Center, where the meeting will be held, offers accommodati
 
 If staying at Luskin Conference Center hotel, parking is available in the basement of the Luskin Conference center.
 
-Parking is available 24/7 in the nearby Parking Structure 8 garage on the roof for $17 per day (overnight parking is available at this garage). You must enter the parking garage through the [Structure 8 Driveway from Westwood Plaza (Google Maps link)](https://maps.app.goo.gl/tv1ZvT5tA9ZgM2gq9), park in a designated visitor parking spot, and pay using the pay station or the ParkMobile app. Should Structure 8 fill up, additional day visitor parking is available at Parking Structures 4 & 2. Please note that there is no visitor parking during business hours in Parking Structures 7, 9, or DD.
+Parking is available 24/7 in the nearby Parking Structure 8 garage on the roof for $17 per day (overnight parking is available at this garage). You must enter the parking garage through the [Structure 8 Driveway from Westwood Plaza (Google Maps link)](https://maps.app.goo.gl/tv1ZvT5tA9ZgM2gq9), park in a designated visitor parking spot, and pay using the pay station or the ParkMobile app.
+
+Should Structure 8 fill up, additional day visitor parking is available at Parking Structures 4 & 2. Please note that there is no visitor parking during business hours in Parking Structures 7, 9, or DD.
 
 ## Rideshare (Uber/Lyft)
 
