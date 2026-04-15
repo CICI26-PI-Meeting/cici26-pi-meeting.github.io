@@ -27,3 +27,5 @@ Many public transit local and long distance commuter busses stop at UCLA. Paymen
 UCLA Transportation has detailed guides for getting to UCLA from LAX Airport or Union Station at [https://transportation.ucla.edu/getting-to-ucla/lax-union-station](https://transportation.ucla.edu/getting-to-ucla/lax-union-station). Note that the directions about rideshare from LAX are slightly oudated - look for any **light green pillar** on the lower deck of the LAX passenger loading zone to board a bus to the designated Uber and Lyft pickup zone. Due to the potential for heavy traffic, budget at least 1 hour for transit if driving or ride sharing to LAX airport from UCLA.
 
 Public transit busses stop at the LAX Metro Transit Center. Free LAX shuttle busses that run every 15-45 minutes connect the terminals to the LAX Metro Transit Center, stopping at pink pillars. From there, the Culver City 6 or 6R bus will take you directly to UCLA.
+
+Waymo's autonomous vehicle service does not currently go to the LAX terminals. A Waymo may be taken from a spot roughly a 6 minute walk from the LAX Metro Transit Center if desired.
