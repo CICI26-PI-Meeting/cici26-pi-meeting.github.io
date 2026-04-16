@@ -11,7 +11,7 @@ postal_address:
   country: US
 ---
 
-The CICI PI Meeting will be hosted at the **UCLA Meyer and Renee Luskin Conference Center**, located on the UCLA campus.
+The CICI PI Meeting will be hosted at the **UCLA Meyer and Renee Luskin Conference Center**, located on the UCLA campus. The primary venue is the Centennial Ballroom, divided into Centennial AB, Centennial CD, and Centennial PreFunction AB. Breakout rooms will be held outside of Luskin in Engineering IV and Boelter Hall.
 
 ### Check-In
 
