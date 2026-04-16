@@ -47,7 +47,7 @@ All active CICI awards are expected to have an attendant to bring and present a 
 - Yuan Tian (University of California, Los Angeles)
 - Winda Mak (University of California, Los Angeles)
 
-### Web Coordinator:
+### Webmaster:
 - Alec Machlis (University of California, Los Angeles)
 
 ### Volunteers:

@@ -6,5 +6,3 @@ track: Logistics
 ---
 
 Lunch break.
-
-Poster Session II setup.
