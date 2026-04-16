@@ -9,4 +9,6 @@ Breakout rooms will be held in the following rooms in the Engineering Building c
 - Faraday Room (Eng IV, Rm 67-124)
 - Rice Room (Boelter Hall, Rm 6764)
 
-Volunteers will be available to guide participants to these locations.
+Volunteers will be available to guide participants to these locations. Note that Eng IV is a **locked building** and will require a volunteer or coordinator to enter.
+
+![Map of UCLA Engineering Complex and Luskin](/assets/images/breakout-locations.png)
