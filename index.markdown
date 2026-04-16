@@ -17,7 +17,7 @@ The 2026 Cybersecurity Innovation for Cyberinfrastructure (CICI) PI Meeting host
 
 The meeting will take place on **Monday, May 11 and Tuesday, May 12, 2026** at the [UCLA Meyer and Renee Luskin Conference Center](https://luskinconferencecenter.ucla.edu/) in Los Angeles, CA.
 
-All active CICI awards are expected to have an attendant to bring and present a printed poster describing their project. Participants should submit a digital version of their poster in advance and present a printed version during the poster session. See the [Participant Guide](/attend/guide) for full details on poster requirements and submission.
+Each active award CICI should submit a poster online describing their project through the [registration page](/registration) by May 1st. Each active award is strongly encouraged to bring and present a printed poster at the meeting.
 
 ---
 

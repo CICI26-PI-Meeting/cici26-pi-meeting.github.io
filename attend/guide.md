@@ -27,9 +27,11 @@ A total of two poster sessions will be scheduled, tentatively both on day 1. Pos
 PIs or alternate(s) are also responsible for:
 - Preparing a poster in PDF format (PIs have the option of adding a URL or QR code to the poster.) <!--The easels will accommodate posters 32"x40". Printed versions of posters may be in any format that fits within that space. -->
 - Submitting the poster [(link on the registration page)](/registration) by the posted deadline.
-- Printing and bringing a poster and selecting a poster location by pinning their poster to a selected poster stand (that will be labeled A or B representing each of the two sessions). Please note, we do not have the ability to print posters on-site. Please plan to bring a poster or arrange for a local print shop to print it and have it ready in advance.
-- Presenting or identifying at least one person to present the poster during the programmed poster session time.
-- Dismantling and removing the poster at the end of the meeting.
+
+PIs or alternate(s) are strongly encouraged to:
+- Print and bring a poster and selecting a poster location by pinning their poster to a selected poster stand (that will be labeled I or II representing each of the two sessions).
+- Present the poster during the programmed poster session time.
+- Dismantle and remove the poster at the end of the meeting.
 
 #### Sample poster template
 
