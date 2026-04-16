@@ -32,7 +32,7 @@ conference:
   tz: "-07:00"
   program:
     url: /program/
-    time_steps: 30
+    time_steps: 15
     show_alltimes: true
   location:
     url: /attend/venue/
