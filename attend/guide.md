@@ -33,12 +33,12 @@ PIs or alternate(s) are also responsible for:
 
 #### Sample poster template
 
-A sample poster template, adapted from CMU's 2024 SaTC PI Meeting, is available to download below depending on the track.
+Sample poster templates, adapted from CMU's 2024 SaTC PI Meeting, are available to download below depending on the track:
 
-[Usable and Collaborative Security for Science (UCSS) Template](/assets/downloads/cici-UCSS-pi-poster-template-2026.pptx)
-[Reference Scientific Security Dataset (RSSD)](/assets/downloads/cici-RSSD-pi-poster-template-2026.pptx)
-[Transition to Cyberinfrastructure Resilience (TCR)](/assets/downloads/cici-TCR-pi-poster-template-2026.pptx)
-[Integrity, Provenance, and Authenticity for Artificial Intelligence Ready Data (IPAAI)](/assets/downloads/cici-IPAAI-pi-poster-template-2026.pptx)
+- [Usable and Collaborative Security for Science (UCSS) Template](/assets/downloads/cici-UCSS-pi-poster-template-2026.pptx)
+- [Reference Scientific Security Dataset (RSSD)](/assets/downloads/cici-RSSD-pi-poster-template-2026.pptx)
+- [Transition to Cyberinfrastructure Resilience (TCR)](/assets/downloads/cici-TCR-pi-poster-template-2026.pptx)
+- [Integrity, Provenance, and Authenticity for Artificial Intelligence Ready Data (IPAAI)](/assets/downloads/cici-IPAAI-pi-poster-template-2026.pptx)
 
 ---
 
