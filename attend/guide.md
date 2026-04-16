@@ -12,7 +12,7 @@ The meeting provides an opportunity for CICI PIs to meet other CICI awardees as 
 
 ### Who is Expected to Attend the 2026 CICI PI Meeting?
 
-- **CICI awards:** The Lead PI for a collaborative award involving multiple institutions is required to ensure that at least one PI, Co-PI, or senior project personnel from each participating institution attends one CICI PI meeting held during the term of the grant. For non-collaborative awards, at least one PI, Co-PI, or senior project personnel must also attend one CICI PI meeting held during the term of the grant.
+- **CICI awards:** For all CICI awards, at least one PI, Co-PI, or senior project personnel must also attend one CICI PI meeting held during the term of the grant.
 
 ---
 
@@ -33,11 +33,12 @@ PIs or alternate(s) are also responsible for:
 
 #### Sample poster template
 
-A sample poster template, adapted from CMU's 2024 SaTC PI Meeting, is available to download below.
+A sample poster template, adapted from CMU's 2024 SaTC PI Meeting, is available to download below depending on the track.
 
-<a href="/assets/downloads/cici-pi-poster-template-2026.pptx"><img src="/assets/images/poster-template-preview.png" alt="Poster Template Preview" style="max-height: 500px; width: auto;"></a>
-
-[Download](/assets/downloads/cici-pi-poster-template-2026.pptx)
+[Usable and Collaborative Security for Science (UCSS) Template](/assets/downloads/cici-UCSS-pi-poster-template-2026.pptx)
+[Reference Scientific Security Dataset (RSSD)](/assets/downloads/cici-RSSD-pi-poster-template-2026.pptx)
+[Transition to Cyberinfrastructure Resilience (TCR)](/assets/downloads/cici-TCR-pi-poster-template-2026.pptx)
+[Integrity, Provenance, and Authenticity for Artificial Intelligence Ready Data (IPAAI)](/assets/downloads/cici-IPAAI-pi-poster-template-2026.pptx)
 
 ---
 

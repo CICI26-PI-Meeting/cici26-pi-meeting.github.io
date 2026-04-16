@@ -13,15 +13,11 @@ layout: home
 #     relative_url: /registration/
 ---
 
-## Overview
-
-The 2026 CICI PI Meeting hosted at UCLA brings together Principal Investigators (PIs) funded through the National Science Foundation's Cybersecurity Innovation for Cyberinfrastructure (CICI) program to share research progress, exchange best practices, and strengthen collaboration across the CICI community.
+The 2026 CICI PI Meeting hosted at UCLA brings together Principal Investigators (PIs) funded through the National Science Foundation's Cybersecurity Innovation for Cyberinfrastructure (CICI) program to share research progress, exchange best practices, and strengthen collaboration across the CICI community. The meeting provides a forum for participants to discuss emerging challenges and opportunities in securing the nation's research cyberinfrastructure, provide feedback to NSF program leadership, and foster new partnerships among researchers, practitioners, and program stakeholders.
 
 The meeting will take place on **Monday, May 11 and Tuesday, May 12, 2026** at the [UCLA Meyer and Renee Luskin Conference Center](https://luskinconferencecenter.ucla.edu/) in Los Angeles, CA.
 
-The meeting provides a forum for participants to discuss emerging challenges and opportunities in securing the nation's research cyberinfrastructure, provide feedback to NSF program leadership, and foster new partnerships among researchers, practitioners, and program stakeholders.
-
-All CICI PIs are expected to present a poster describing their project. Participants should submit a digital version of their poster in advance and present a printed version during the poster session. See the [Participant Guide](/attend/guide) for full details on poster requirements and submission.
+All active CICI awards are expected to have an attendant to bring and present a printed poster describing their project. Participants should submit a digital version of their poster in advance and present a printed version during the poster session. See the [Participant Guide](/attend/guide) for full details on poster requirements and submission.
 
 ---
 
@@ -45,13 +41,13 @@ All CICI PIs are expected to present a poster describing their project. Particip
 
 ---
 
-### Chairs:
+### Coordinators:
 - Daniel Massey (National Science Foundation)
 - Kevin Thompson (National Science Foundation)
 - Yuan Tian (University of California, Los Angeles)
 - Winda Mak (University of California, Los Angeles)
 
-### Web Chair:
+### Web Coordinator:
 - Alec Machlis (University of California, Los Angeles)
 
 ### Volunteers:
