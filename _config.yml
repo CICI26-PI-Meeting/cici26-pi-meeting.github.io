@@ -35,7 +35,7 @@ conference:
     time_steps: 30
     show_alltimes: true
   location:
-    url: /location/
+    url: /attend/venue/
   navigation:
     links:
       - name: Home
