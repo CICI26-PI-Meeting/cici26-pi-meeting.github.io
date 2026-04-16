@@ -3,60 +3,73 @@ days:
     abbr: D1
     date: 2026-05-11
     rooms:
-      - name: Main Hall
+      - name: Centennial PreFunction AB
         talks:
           - name: Registration & Breakfast
             time_start: "08:00"
             time_end: "09:00"
+          - name: Coffee Break I
+            time_start: "10:30"
+            time_end: "11:30"
+          - name: Lunch
+            time_start: "12:00"
+            time_end: "13:00"
+          - name: Coffee Break II
+            time_start: "15:00"
+            time_end: "16:00"
+      - name: Centennial AB
+        talks:
           - name: Opening Remarks
             time_start: "09:00"
             time_end: "09:30"
           - name: Keynote Address
             time_start: "09:30"
             time_end: "10:30"
-          - name: Poster Session I & Coffee Break
-            time_start: "10:30"
-            time_end: "11:30"
           - name: Breakout Session Announcements & Instructions
             time_start: "11:30"
             time_end: "12:00"
-          - name: Lunch
-            time_start: "12:00"
-            time_end: "13:30"
-          - name: Breakout Sessions
-            time_start: "13:30"
-            time_end: "15:00"
-          - name: Poster Session II & Coffee Break
-            time_start: "15:00"
-            time_end: "16:00"
           - name: Panel Discussion I
             time_start: "16:00"
             time_end: "17:00"
           - name: Dinner Reception
             time_start: "17:00"
             time_end: "19:00"
-
+      - name: Centennial CD
+        talks:
+          - name: Poster Session I
+            time_start: "10:30"
+            time_end: "11:30"
+          - name: Poster Session II
+            time_start: "15:00"
+            time_end: "16:00"
+      - name: Engineering Buildings
+        talks:
+          - name: Breakout Sessions
+            time_start: "13:30"
+            time_end: "15:00"
   - name: Day 2
     abbr: D2
     date: 2026-05-12
     rooms:
-      - name: Main Hall
+      - name: Centennial PreFunction AB
         talks:
           - name: Breakfast
             time_start: "08:00"
             time_end: "09:00"
-          - name: Breakout Reports
-            time_start: "09:00"
-            time_end: "10:00"
           - name: Coffee Break
             time_start: "10:00"
             time_end: "10:30"
+          - name: Lunch
+            time_start: "12:30"
+            time_end: "13:30"
+      - name: Centennial AB
+        talks:
+          - name: Breakout Reports
+            time_start: "09:00"
+            time_end: "10:00"
           - name: Panel Discussion II
             time_start: "10:30"
             time_end: "11:30"
           - name: Concluding Remarks
             time_start: "11:30"
-            time_end: "12:00"
-          - name: Lunch
-            time_start: "12:00"
-            time_end: "13:30"
+            time_end: "12:30"

@@ -29,7 +29,7 @@ All CICI PIs are expected to present a poster describing their project. Particip
 |------|-------|
 | April 24, 2026 | Registration deadline |
 | May 1, 2026 | Poster submission deadline |
-| May 11–12, 2026 | CICI PI Meeting |
+| May 11–12, 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CICI PI Meeting |
 
 # Meeting Details
 

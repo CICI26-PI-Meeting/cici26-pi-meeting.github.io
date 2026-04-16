@@ -1,8 +1,8 @@
 ---
-name: Lunch
+name: Coffee Break II
 #speakers:
 #  - TBA
 track: Logistics
 ---
 
-Lunch break on Day 2.
+Coffee break II.

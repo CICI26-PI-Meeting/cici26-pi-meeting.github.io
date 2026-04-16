@@ -22,7 +22,7 @@ All PIs of active projects are required to prepare one project poster. Please su
 
 Posters should provide an overview of the research topics and results, with effective use of graphics. We ask that you make sure to emphasize the scientific contribution of your project with respect to secure and resilient cyberinfrastructure, in general, as well as the impact in specific related topic areas. We also hope that you will explain the project as a whole, rather than only a narrow subtopic. It would be particularly helpful if you include the scientific challenge questions being addressed in the project context that will contribute new approaches that generalize to other CICI research.
 
-A total of two poster sessions will be scheduled, tentatively both on day 1. Poster sessions will be broken into two groups: I and II. The organizing committee will assign poster sessions to each PI prior to the meeting. We ask that you please do not relocate stands and labels. Volunteers will be on hand to assist PIs with set up and at each session.
+A total of two poster sessions will be scheduled, tentatively both on day 1. Poster sessions will be broken into two groups: I and II. The organizing committee will assign poster sessions to each PI prior to the meeting. Please do not relocate stands and labels. Volunteers will be on hand to assist PIs with set up and breakdown at each session.
 
 PIs or alternate(s) are also responsible for:
 - Preparing a poster in PDF format (PIs have the option of adding a URL or QR code to the poster.) The easels will accommodate posters 32"x40". Printed versions of posters may be in any format that fits within that space.
