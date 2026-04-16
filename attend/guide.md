@@ -29,7 +29,7 @@ PIs or alternate(s) are also responsible for:
 - Submitting the poster [(link on the registration page)](/registration) by the posted deadline.
 - Printing and bringing a poster and selecting a poster location by pinning their poster to a selected poster stand (that will be labeled A or B representing each of the two sessions). Please note, we do not have the ability to print posters on-site. Please plan to bring a poster or arrange for a local print shop to print it and have it ready in advance.
 - Presenting or identifying at least one person to present the poster during the programmed poster session time.
-- Dismantling and discarding the poster at the end of the meeting.
+- Dismantling and removing the poster at the end of the meeting.
 
 #### Sample poster template
 
