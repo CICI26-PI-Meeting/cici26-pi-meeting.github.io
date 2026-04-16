@@ -13,7 +13,7 @@ layout: home
 #     relative_url: /registration/
 ---
 
-# Overview
+## Overview
 
 The 2026 CICI PI Meeting hosted at UCLA brings together Principal Investigators (PIs) funded through the National Science Foundation's Cybersecurity Innovation for Cyberinfrastructure (CICI) program to share research progress, exchange best practices, and strengthen collaboration across the CICI community.
 
@@ -23,7 +23,9 @@ The meeting provides a forum for participants to discuss emerging challenges and
 
 All CICI PIs are expected to present a poster describing their project. Participants should submit a digital version of their poster in advance and present a printed version during the poster session. See the [Participant Guide](/attend/guide) for full details on poster requirements and submission.
 
-# Key Dates
+---
+
+## Key Dates
 
 | Date | Event |
 |------|-------|
@@ -31,7 +33,9 @@ All CICI PIs are expected to present a poster describing their project. Particip
 | May 1, 2026 | Poster submission deadline |
 | May 11–12, 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CICI PI Meeting |
 
-# Meeting Details
+---
+
+## Meeting Details
 
 - Program: CICI (Cybersecurity Innovation for Cyberinfrastructure)
 - NSF Program Link: [Cybersecurity Innovation for Cyberinfrastructure (CICI)](https://www.nsf.gov/funding/opportunities/cici-cybersecurity-innovation-cyberinfrastructure)
@@ -39,16 +43,18 @@ All CICI PIs are expected to present a poster describing their project. Particip
 - Registration: [Registration information](/registration/)
 - Contact: [cici2026pimeeting@gmail.com](mailto:cici2026pimeeting@gmail.com)
 
-## Chairs:
+---
+
+### Chairs:
 - Daniel Massey (National Science Foundation)
 - Kevin Thompson (National Science Foundation)
 - Yuan Tian (University of California, Los Angeles)
 - Winda Mak (University of California, Los Angeles)
 
-## Web Chair:
+### Web Chair:
 - Alec Machlis (University of California, Los Angeles)
 
-## Volunteers:
+### Volunteers:
 - Alec Machlis
 - Andrew Kuai
 - Jinghuai Zhang 
