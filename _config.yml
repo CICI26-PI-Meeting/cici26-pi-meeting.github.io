@@ -50,6 +50,8 @@ conference:
         menu:
           - name: Participant Guide
             relative_url: /attend/guide
+          - name: Code of Conduct
+            relative_url: /attend/conduct
           - name: Venue
             relative_url: /attend/venue
           - name: Travel

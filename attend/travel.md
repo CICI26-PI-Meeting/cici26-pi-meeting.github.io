@@ -22,7 +22,7 @@ The Luskin Conference Center, where the meeting will be held, offers accommodati
 
 ## By Car
 
-Parking is available 24/7 in the nearby Parking Lot 8 garage on the roof for $17 per day. Please see attached walking directions provided by Luskin. Luskin’s underground parking garage is only for their in-house overnight stay guests. All participants not staying at Luskin overnight will have to park at Parking Lot 8 and walk over the bridge to Luskin.
+Parking is available 24/7 in the nearby Parking Lot 8 garage on the roof for $17 per day. Please see attached walking directions provided by Luskin. Luskin's underground parking garage is only for their in-house overnight stay guests. All participants not staying at Luskin overnight will have to park at Parking Lot 8 and walk over the bridge to Luskin.
 
 [Parking Lot #8 Walking Directions PDF](/assets/downloads/Parking_Lot_8_Walking_Directions.pdf)
 
