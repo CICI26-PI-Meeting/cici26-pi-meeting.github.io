@@ -49,8 +49,9 @@ Each active award CICI should submit a poster online describing their project th
 - Daniel Massey (National Science Foundation)
 - Kevin Thompson (National Science Foundation)
 
-### Webmaster:
+### Website Administrators:
 - Alec Machlis (University of California, Los Angeles)
+- Andrew Kuai (University of California, Los Angeles)
 
 ### Volunteers:
 - Alec Machlis
