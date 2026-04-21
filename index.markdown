@@ -41,11 +41,13 @@ Each active award CICI should submit a poster online describing their project th
 
 ---
 
-### Coordinators:
+### Coordinator:
+- Winda Mak (University of California, Los Angeles)
+
+### Chairs:
+- Yuan Tian (University of California, Los Angeles)
 - Daniel Massey (National Science Foundation)
 - Kevin Thompson (National Science Foundation)
-- Yuan Tian (University of California, Los Angeles)
-- Winda Mak (University of California, Los Angeles)
 
 ### Webmaster:
 - Alec Machlis (University of California, Los Angeles)
