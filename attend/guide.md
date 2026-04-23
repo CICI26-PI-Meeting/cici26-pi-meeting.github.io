@@ -25,11 +25,12 @@ Posters should provide an overview of the research topics and results, with effe
 A total of two poster sessions will be scheduled, tentatively both on day 1. Poster sessions will be broken into two groups: I and II. The organizing committee will assign poster sessions to each PI prior to the meeting. Please do not relocate stands and labels. Volunteers will be on hand to assist PIs with set up and breakdown at each session.
 
 PIs or alternate(s) are also responsible for:
-- Preparing a poster in PDF format (PIs have the option of adding a URL or QR code to the poster.) <!--The easels will accommodate posters 32"x40". Printed versions of posters may be in any format that fits within that space. -->
+- Preparing a poster in PDF format (PIs have the option of adding a URL or QR code to the poster.)
+
 - Submitting the poster [(link on the registration page)](/registration) by the posted deadline.
 
 PIs or alternate(s) are strongly encouraged to:
-- Print and bring a poster and selecting a poster location by pinning their poster to a selected poster stand (that will be labeled I or II representing each of the two sessions).
+- Print and bring a poster and selecting a poster location by pinning their poster to a selected poster stand (that will be labeled I or II representing each of the two sessions). The poster boards have a cushioned backing, the easels will accommodate posters **30"x36"**. Printed versions of posters may be in any format that fits within that space.
 - Present the poster during the programmed poster session time.
 - Dismantle and remove the poster at the end of the meeting.
 
