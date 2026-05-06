@@ -17,7 +17,7 @@ The 2026 Cybersecurity Innovation for Cyberinfrastructure (CICI) PI Meeting host
 
 The meeting will take place on **Monday, May 11 and Tuesday, May 12, 2026** at the [UCLA Meyer and Renee Luskin Conference Center](https://luskinconferencecenter.ucla.edu/) in Los Angeles, CA.
 
-Each active award CICI should submit a poster online describing their project through the [registration page](/registration) by May 1st. Each active award is strongly encouraged to bring and present a printed poster at the meeting.
+Each active award CICI should submit a poster online describing their project through the [registration page](/registration) by May 1st. Each active award is strongly encouraged to bring and present a printed poster at the meeting. For all CICI awards, at least one PI, Co-PI, or senior project personnel must also attend one CICI PI meeting held during the term of the grant.
 
 ---
 
@@ -28,6 +28,10 @@ Each active award CICI should submit a poster online describing their project th
 | April 24, 2026 | Registration deadline |
 | May 1, 2026 | Poster submission deadline |
 | May 11–12, 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CICI PI Meeting |
+
+---
+
+{% include partials/speakers-grid.html %}
 
 ---
 
@@ -56,7 +60,7 @@ Each active award CICI should submit a poster online describing their project th
 ### Volunteers:
 - Alec Machlis
 - Andrew Kuai
-- Jinghuai Zhang 
+- Sean Tang
 - Joshua Zhu
 - Katie Min
 - Peiran Wang

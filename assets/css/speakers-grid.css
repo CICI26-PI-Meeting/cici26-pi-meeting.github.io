@@ -1,0 +1,117 @@
+/* Speakers & Panelists Grid Section */
+.speakers-panelists-section {
+  margin: 3rem 0;
+  padding: 2rem 0;
+}
+
+.speakers-panelists-section h2 {
+  text-align: center;
+  margin-bottom: 3rem;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.speakers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .speakers-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 767px) {
+  .speakers-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+.speaker-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--bs-body-bg);
+  border: 1px solid var(--bs-border-color, #dee2e6);
+  padding: 1rem;
+}
+
+.speaker-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  text-decoration: none;
+}
+
+[data-bs-theme=dark] .speaker-card:hover {
+  box-shadow: 0 8px 16px rgba(255, 255, 255, 0.1);
+}
+
+.speaker-image {
+  width: 100%;
+  max-width: 250px;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+
+.speaker-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.speaker-info h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0.5rem 0;
+  color: inherit;
+}
+
+.speaker-position {
+  font-weight: 600;
+  color: var(--bs-primary);
+  margin: 0.25rem 0;
+  font-size: 0.95rem;
+}
+
+.speaker-affiliation {
+  font-size: 0.9rem;
+  color: var(--bs-secondary);
+  margin: 0.25rem 0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 576px) {
+  .speakers-panelists-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .speakers-grid {
+    gap: 1.5rem;
+  }
+
+  .speaker-card {
+    padding: 0.75rem;
+  }
+
+  .speaker-image {
+    max-width: 200px;
+    margin-bottom: 0.75rem;
+  }
+
+  .speaker-info h3 {
+    font-size: 1.1rem;
+  }
+}

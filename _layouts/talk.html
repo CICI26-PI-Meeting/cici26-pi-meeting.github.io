@@ -113,7 +113,7 @@
   {% endif %}
 
   <p class="d-print-none mt-5">
-    <a href="{{ page.collection | prepend: '/' | prepend: site.baseurl }}" class="btn btn-light">
+    <a href="{{ '/events/' | prepend: site.baseurl }}" class="btn btn-light">
       <i class="fas fa-bullhorn"></i>&nbsp;{{ site.data.lang[site.conference.lang].overview | default: "Overview" }}
     </a>
 

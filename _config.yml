@@ -19,10 +19,10 @@ conference:
 
   # Information bars (shown as alerts at the top of the page)
   info_bars:
-    - title: Registration Open!
+    - title: Participant Guide Now Available
       color: primary
       text: |
-        <ins>[Registration (due April 24th) and poster submission (due May 1st) is now open!](/registration)</ins>
+        <ins>[The participant guide is now available for download!](/attend/guide)</ins>
 
       # - title: Important Notice
       #   color: warning
@@ -42,14 +42,16 @@ conference:
         relative_url: /
       - name: Program
         relative_url: /program/
-      # - name: Events
-      #   relative_url: /talks/
-      # - name: Speakers
-      #   relative_url: /speakers/
+      - name: Events
+        relative_url: /events/
+      - name: Speakers
+        relative_url: /speakers/
       - name: Attendee Information
         menu:
           - name: Participant Guide
             relative_url: /attend/guide
+          - name: Poster Guidelines
+            relative_url: /attend/poster
           - name: Code of Conduct
             relative_url: /attend/conduct
           - name: Venue

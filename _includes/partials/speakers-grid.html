@@ -1,0 +1,17 @@
+<section class="speakers-panelists-section">
+  <h2>Speakers & Panelists</h2>
+  <div class="speakers-grid">
+    {% for speaker in site.data.speakers-panelists.speakers %}
+      <a href="{{ speaker.url }}" class="speaker-card">
+        <div class="speaker-image">
+          <img src="{{ speaker.image }}" alt="{{ speaker.name }}">
+        </div>
+        <div class="speaker-info">
+          <h3>{{ speaker.name }}</h3>
+          <p class="speaker-position">{{ speaker.position }}</p>
+          <p class="speaker-affiliation">{{ speaker.affiliation }}</p>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>
