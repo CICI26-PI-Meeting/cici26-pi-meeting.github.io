@@ -64,8 +64,6 @@ conference:
       #   relative_url: /organizers/
   talks:
     tracks:
-      - name: Logistics
-        color: secondary
       - name: Plenary
         color: danger
       - name: Poster Session
@@ -74,6 +72,8 @@ conference:
         color: success
       - name: Panel
         color: warning
+      - name: Logistics
+        color: secondary
   meta:
     schema_org:
       disable: false
