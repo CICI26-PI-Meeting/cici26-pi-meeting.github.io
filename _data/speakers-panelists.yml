@@ -1,13 +1,25 @@
-# Main speakers and panelists to display on home page
-speakers:
-  - name: Yuan Tian
-    first_name: Yuan
-    last_name: Tian
-    position: "Chair, UCLA"
-    affiliation: "University of California, Los Angeles"
-    image: "/assets/images/speakers/YuanTian.webp"
-    url: "/speakers/Yuan-Tian"
+# Keynote speakers to display on home page
+keynote_speakers:
+
+  - name: Anita Nikolich
+    first_name: Anita
+    last_name: Nikolich
+    position: "Research Scientist & Director"
+    affiliation: "University of Illinois Urbana-Champaign"
+    image: "/assets/images/speakers/AnitaNikolich.webp"
+    url: "/speakers/Anita-Nikolich"
+
   
+  - name: Jelena Mirkovic
+    first_name: Jelena
+    last_name: Mirkovic
+    position: "Principal Scientist"
+    affiliation: "University of Southern California"
+    image: "/assets/images/speakers/JelenaMirkovic.webp"
+    url: "/speakers/Jelena-Mirkovic"
+
+# Panelists to display on home page
+panelists:
   - name: Dan Massey
     first_name: Dan
     last_name: Massey
@@ -15,11 +27,11 @@ speakers:
     affiliation: "National Science Foundation"
     image: "/assets/images/speakers/DanMassey.webp"
     url: "/speakers/Dan-Massey"
-  
+
   - name: Ron Hutchins
     first_name: Ron
     last_name: Hutchins
-    position: "Chair, UVA"
+    position: "Vice President of Information Technology"
     affiliation: "University of Virginia"
     image: "/assets/images/speakers/RonHutchins.webp"
     url: "/speakers/Ron-Hutchins"
@@ -39,19 +51,10 @@ speakers:
     affiliation: "Center for Applied Internet Data Analysis"
     image: "/assets/images/speakers/KimberlyCClaffy.webp"
     url: "/speakers/Kimberly-C.-Claffy"
-  
-  - name: Jelena Mirkovic
-    first_name: Jelena
-    last_name: Mirkovic
-    position: "Principal Scientist"
-    affiliation: "University of Southern California"
-    image: "/assets/images/speakers/JelenaMirkovic.webp"
-    url: "/speakers/Jelena-Mirkovic"
-  
-  - name: Anita Nikolich
-    first_name: Anita
-    last_name: Nikolich
-    position: "Research Scientist & Director"
-    affiliation: "University of Illinois Urbana-Champaign"
-    image: "/assets/images/speakers/AnitaNikolich.webp"
-    url: "/speakers/Anita-Nikolich"
+  - name: Yuan Tian
+    first_name: Yuan
+    last_name: Tian
+    position: "Chair, UCLA"
+    affiliation: "University of California, Los Angeles"
+    image: "/assets/images/speakers/YuanTian.webp"
+    url: "/speakers/Yuan-Tian"
