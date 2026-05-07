@@ -52,7 +52,7 @@ days:
         talks:
           - name: Breakout Sessions
             time_start: "13:30"
-            time_end: "15:00"
+            time_end: "14:45"
   - name: Day 2
     abbr: D2
     date: 2026-05-12
