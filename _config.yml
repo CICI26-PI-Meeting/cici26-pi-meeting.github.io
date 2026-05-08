@@ -46,6 +46,8 @@ conference:
         relative_url: /events/
       - name: Speakers
         relative_url: /speakers/
+      - name: Poster Gallery
+        relative_url: /gallery/
       - name: Attendee Information
         menu:
           - name: Participant Guide
