@@ -23,7 +23,10 @@ conference:
       color: primary
       text: |
         <ins>[The participant guide is now available for download!](/attend/guide)</ins>
-
+    - title: Poster Gallery Now Available
+      color: primary
+      text: |
+        <ins>[Submitted Digital Posters are now available for viewing](/gallery)</ins>
       # - title: Important Notice
       #   color: warning
       #   text: |
